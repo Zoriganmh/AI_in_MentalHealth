@@ -1,0 +1,1 @@
+pip install pandas google-genai tqdm openpyxl
